@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+
+# makepkg
+/src/
+/pkg/
+*.pkg.tar.*
+*.src.tar.*
+
+# editors / OS
+.idea/
+.vscode/
+.DS_Store

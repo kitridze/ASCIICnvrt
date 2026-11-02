@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <rect width="128" height="128" rx="22" fill="#1e2127"/>
+  <g font-family="DejaVu Sans Mono, monospace" font-weight="bold" font-size="22" fill="#e6e9ef" text-anchor="middle">
+    <text x="26" y="40" opacity="1">@</text><text x="50" y="40" opacity=".9">%</text><text x="74" y="40" opacity=".75">#</text><text x="98" y="40" opacity=".6">*</text>
+    <text x="26" y="66" opacity=".9">%</text><text x="50" y="66" opacity=".75">#</text><text x="74" y="66" opacity=".6">+</text><text x="98" y="66" opacity=".45">=</text>
+    <text x="26" y="92" opacity=".75">#</text><text x="50" y="92" opacity=".6">+</text><text x="74" y="92" opacity=".45">-</text><text x="98" y="92" opacity=".3">:</text>
+    <text x="26" y="118" opacity=".6">*</text><text x="50" y="118" opacity=".45">-</text><text x="74" y="118" opacity=".3">.</text><text x="98" y="118" opacity=".15">.</text>
+  </g>
+</svg>

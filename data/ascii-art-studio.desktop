@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=ASCII Art Studio
+GenericName=Image to ASCII converter
+Comment=Convert images to ASCII art (PNG, JPEG or TXT)
+Exec=ascii-art-studio %f
+Icon=ascii-art-studio
+Terminal=false
+Categories=Graphics;Utility;
+Keywords=ascii;art;image;text;converter;
+MimeType=image/png;image/jpeg;image/webp;image/bmp;image/gif;image/tiff;
+StartupNotify=true
